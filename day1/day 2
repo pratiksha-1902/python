@@ -3,3 +3,16 @@ age = 21
 
 print(name)
 print(age)
+
+maths = 80
+python = 90
+dbms = 75
+
+total = maths + python + dbms
+average = total / 3
+
+print("Maths:", maths)
+print("Python:", python)
+print("DBMS:", dbms)
+print("Total:", total)
+print("Average:", average)
